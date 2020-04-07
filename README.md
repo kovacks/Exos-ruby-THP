@@ -1,6 +1,6 @@
 # Exos-ruby-THP
                  
-## Day 2, week 2.
+### Day 2, week 2.
 
 
 
